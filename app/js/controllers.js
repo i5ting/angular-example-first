@@ -78,7 +78,7 @@ angular.module('myApp.controllers', [])
 		  console.log(opt);
 		  $scope.submit();
 	  }
-	  
+	  //end
   }])
   
   .controller('MyCtrl2', ['$scope', function($scope) {
