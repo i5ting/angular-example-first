@@ -2,6 +2,8 @@
 
 这是一个简单的问卷而已，主要用于熟悉angularjs的各种绑定以及事件
 
+本项目是基于angular-seed创建的模板项目，具体参见[README.angular.md](https://github.com/i5ting/angular-example-first/blob/master/README.angular.md)
+
 
 ## 启动服务器
 
